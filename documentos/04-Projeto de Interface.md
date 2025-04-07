@@ -18,9 +18,14 @@ O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário p
 
 As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
 <ul>
-  <li>Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);</li>
-  <li>Conteúdo - apresenta o conteúdo da tela em questão;</li>
-  <li>Rodapé - apresenta informações sobre os direitos autorais.</li>
+  <li>Cabeçalho - Tela Homepage,login,cadastro,perfil,anunciante</li>
+  <li>Conteúdo -A tela inicial (Home Page) mostra uma barra de pesquisa, promoções e seções de cadastro e informações sobre o site. </li>
+  <li>Rodapé - No rodapé, você pode incluir:
+
+Destaques de Produtos: Veja nossas ofertas e promoções.<br>
+Privacidade e Segurança: Seus dados estão seguros conosco.<br>
+Área do Anunciante: Acesse e cadastre sua empresa.<br>
+Fale conosco: Fale com a gente para tirar dúvidas!</li>
 </ul>
 
 <figure> 
