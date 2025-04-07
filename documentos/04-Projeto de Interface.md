@@ -18,9 +18,13 @@ O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário p
 
 As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
 <ul>
-  <li>Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);</li>
-  <li>Conteúdo - apresenta o conteúdo da tela em questão;</li>
-  <li>Rodapé - apresenta informações sobre os direitos autorais.</li>
+  <li>Cabeçalho -Tela Homepage,Login,Cadastro,Perfil,Anunciante</li>
+  <li>Conteúdo -A Tela Homepage tem uma barra de pesquisa e seções de cadastro e informações sobre o site. O Login pede e-mail e senha, com a opção de manter-se logado. O Cadastro solicita nome, telefone, e-mail, senha e confirmação de senha. A tela de Perfil mostra sua conta, saldo, notificações de preços baixos, favoritos, pedidos salvos e a opção de sair. A tela do anunciante permite fazer login com e-mail corporativo e cadastrar uma empresa. </li>
+  <li>Rodapé - O rodapé do nosso site apresenta como destaques dos produtos, links para páginas importantes (como política de privacidade e termos de serviço), ícones de redes sociais como whatsapp, links para parceiros divulga seus produtos, avisos legais e selos de segurança.
+
+
+
+.</li>
 </ul>
 
 <figure> 
@@ -74,7 +78,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 </figure>
 <hr>
 
-<h3><b>Tela – Cadastro</b></h3>
+<h3><b>Tela – Cadrastro</b></h3>
 <p>A tela de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: Nome Completo, E-mail, Telefone, Instituição de Ensino, Endereço, Senha e Confirmação de Senha.</p>
   
   ![cadastro](https://user-images.githubusercontent.com/81182674/167681719-694701df-5bd7-4615-9562-b106001e40db.png)
